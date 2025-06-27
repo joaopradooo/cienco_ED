@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1749855148 source:c:\users\joaov\desktop\faculdade\estruturasdedados\cienco_ed\1º semestre\2º bimestre\acesso sequencial - dia 13-06\exemplo02\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
